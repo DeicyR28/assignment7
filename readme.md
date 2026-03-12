@@ -5,8 +5,6 @@ My Git Repo QR Code
 
 ![GitHub Repo](/qr_codes/QRCode_20260312004301.png "MY QR Code Link")
 
-![QR Code](qr_codes/QRCode_20260312004301.png)
-
 My Docker Image QR Code
 
 ![Docker QR Image](/qr_codes/QRCode_20260312003838.png "My QR Code Link")
