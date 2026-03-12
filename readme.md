@@ -1,6 +1,13 @@
 # 📦 Project Setup
 
 ---
+My Git Repo QR Code
+
+![GitHub Repo](/qr_codes/QRCode_20260312004301.png "MY QR Code Link")
+
+My Docker Image QR Code
+
+![Docker QR Image](/qr_codes/QRCode_20260312003838.png "My QR Code Link")
 
 # 🧩 1. Install Homebrew (Mac Only)
 
